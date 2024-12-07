@@ -30,6 +30,7 @@ React Js Syllabus
 - Data Centralization
 - Context API 
 - Redux Toolkit
+- Project (TMDB)
 
 
 Others
