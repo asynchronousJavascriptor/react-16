@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: gilroy;
+}
+
+.card{
+  background-color: aquamarine;
+}
+
+body{
+  padding: 10px;
+
+}
+
+form{
+  background-color: gainsboro;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+input{
+  margin-bottom: 5px;
+}
